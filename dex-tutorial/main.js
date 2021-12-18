@@ -1,5 +1,5 @@
-const serverUrl = "https://edrq8aj6uilj.grandmoralis.com:2053/server"; //Server url from moralis.io
-const appId = "VHVdtVWLxbMAIqyD6ycfbFAk9cV1yhVw7U2RkKM6"; // Application id from moralis.io
+const serverUrl = "https://qjmqbdinbc3f.usemoralis.com:2053/server"; //Server url from moralis.io
+const appId = "bMVLACuLWJB8HJ36ArOVPG4h0BgDatpCTmE5RWLd"; // Application id from moralis.io
 
 let currentTrade = {};
 let currentSelectSide;
